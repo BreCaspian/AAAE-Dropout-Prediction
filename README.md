@@ -79,9 +79,14 @@ All code for data processing, model training, and evaluation is contained in a s
 
 <p align="center">
   <img src="Paper/Figure/AAE.png" alt="AAE Architecture" width="75%">
+  <br>
+  <em>Figure 1. Overall architecture of the Autoencoder (AAE)</em>
 </p>
+
 <p align="center">
   <img src="Paper/Figure/Attention.png" alt="Attention Mechanism" width="75%">
+  <br>
+  <em>Figure 2. Attention mechanism integrated into the autoencoder</em>
 </p>
 
 
