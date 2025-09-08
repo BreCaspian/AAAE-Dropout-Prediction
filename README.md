@@ -137,7 +137,8 @@ This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) 
 This project is maintained by:
 
 - **Author** – yaoyuzhuo6@gmail.com  
-- **Author** – yansihan6636@gmail.com  
+- **Author** – yansihan6636@gmail.com
+- **Author** – 2264248122@qq.com
 
 For questions, feedback, or collaboration inquiries, feel free to reach out.
 
