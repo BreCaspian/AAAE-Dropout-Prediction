@@ -77,11 +77,32 @@ All code for data processing, model training, and evaluation is contained in a s
 
 ## 📊 Model Architecture
 
-> ⏳ *This section will be updated upon publication.*
+<p align="center">
+  <img src="Paper/Figure/AAE.png" alt="AAE Architecture" width="85%">
+</p>
+<p align="center">
+  <img src="Paper/Figure/Attention.png" alt="Attention Mechanism" width="85%">
+</p>
+
 
 ## 📈 Results
 
-> ⏳ *This section will be updated upon publication.*
+
+**TABLE I**  
+*Performance comparison of all experimental models, with the average recall, precision, and F1 scores calculated as the arithmetic mean of values for classes 0 and 1.*
+
+| Model                          | Accuracy | Avg Recall | Avg Precision | Avg F1 Score |
+|--------------------------------|----------|------------|---------------|--------------|
+| Attention-Augmented Autoencoder | 98.33%   | 0.99       | 0.97          | 0.98         |
+| Autoencoder                     | 96.67%   | 0.96       | 0.96          | 0.96         |
+| Neural Network                  | 95.00%   | 0.97       | 0.91          | 0.94         |
+| Decision Tree                   | 93.33%   | 0.89       | 0.93          | 0.91         |
+| Logistic Regression             | 93.33%   | 0.91       | 0.91          | 0.91         |
+| Support Vector Machine          | 93.33%   | 0.91       | 0.91          | 0.91         |
+| Naive Bayes                     | 91.67%   | 0.85       | 0.92          | 0.88         |
+| Random Forest                   | 91.67%   | 0.88       | 0.90          | 0.88         |
+| MLP                             | 90.00%   | 0.86       | 0.86          | 0.86         |
+| TabNet                          | 90.00%   | 0.86       | 0.86          | 0.86         |
 
 ---
 
