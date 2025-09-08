@@ -66,7 +66,7 @@ All code for data processing, model training, and evaluation is contained in a s
    Bash
 
    ```
-   jupyter lab
+   jupyter notebook
    ```
 
 2. In your browser, navigate to `Codebase/` and open **`Release.ipynb`**.
@@ -78,18 +78,15 @@ All code for data processing, model training, and evaluation is contained in a s
 ## 📊 Model Architecture
 
 <p align="center">
-  <img src="Paper/Figure/AAE.png" alt="AAE Architecture" width="85%">
+  <img src="Paper/Figure/AAE.png" alt="AAE Architecture" width="75%">
 </p>
 <p align="center">
-  <img src="Paper/Figure/Attention.png" alt="Attention Mechanism" width="85%">
+  <img src="Paper/Figure/Attention.png" alt="Attention Mechanism" width="75%">
 </p>
 
 
 ## 📈 Results
 
-
-**TABLE I**  
-*Performance comparison of all experimental models, with the average recall, precision, and F1 scores calculated as the arithmetic mean of values for classes 0 and 1.*
 
 | Model                          | Accuracy | Avg Recall | Avg Precision | Avg F1 Score |
 |--------------------------------|----------|------------|---------------|--------------|
@@ -103,6 +100,10 @@ All code for data processing, model training, and evaluation is contained in a s
 | Random Forest                   | 91.67%   | 0.88       | 0.90          | 0.88         |
 | MLP                             | 90.00%   | 0.86       | 0.86          | 0.86         |
 | TabNet                          | 90.00%   | 0.86       | 0.86          | 0.86         |
+
+**TABLE I**  
+*Performance comparison of all experimental models, with the average recall, precision, and F1 scores calculated as the arithmetic mean of values for classes 0 and 1.*
+
 
 ---
 
