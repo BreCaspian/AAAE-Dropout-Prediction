@@ -1,1 +1,7 @@
-# Core ML and Deep Learning
+imblearn
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+torch
