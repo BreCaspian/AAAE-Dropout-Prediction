@@ -87,6 +87,8 @@ All code for data processing, model training, and evaluation is contained in a s
 
 ## 📈 Results
 
+**TABLE I**  
+*Performance comparison of all experimental models, with the average recall, precision, and F1 scores calculated as the arithmetic mean of values for classes 0 and 1.*
 
 | Model                          | Accuracy | Avg Recall | Avg Precision | Avg F1 Score |
 |--------------------------------|----------|------------|---------------|--------------|
@@ -101,8 +103,7 @@ All code for data processing, model training, and evaluation is contained in a s
 | MLP                             | 90.00%   | 0.86       | 0.86          | 0.86         |
 | TabNet                          | 90.00%   | 0.86       | 0.86          | 0.86         |
 
-**TABLE I**  
-*Performance comparison of all experimental models, with the average recall, precision, and F1 scores calculated as the arithmetic mean of values for classes 0 and 1.*
+
 
 
 ---
