@@ -138,7 +138,7 @@ This project is maintained by:
 
 - **Author** – yaoyuzhuo6@gmail.com  
 - **Author** – yansihan6636@gmail.com
-- **Author** – 2264248122@qq.com
+- **Author** – supcanti0313@gmail.com
 
 For questions, feedback, or collaboration inquiries, feel free to reach out.
 
