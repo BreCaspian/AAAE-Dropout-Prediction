@@ -113,20 +113,7 @@ All code for data processing, model training, and evaluation is contained in a s
 
 ---
 
-## 📄 Citation
 
-If you use this code or find our work helpful, please cite:
-
-```bibtex
-@article{paper_2024,
-  title={Attention-Augmented Autoencoder for Robust Student Dropout Prediction},
-  author={Name and Co-authors},
-  journal={Journal Name},
-  year={2025},
-  volume={XX},
-  pages={XXX-XXX}
-}
-```
 
 ## 📝 License
 
